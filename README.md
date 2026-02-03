@@ -143,11 +143,6 @@ Contribuições são bem-vindas! Se você deseja contribuir:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📞 Contato
-
-- **Fundador**: Guilherme Lima Desoler
-- **Localização**: Foz do Iguaçu - PR, Brasil
-
 ## 🌟 Apoie o Projeto
 
 Este é um projeto social sem fins lucrativos. Se você acredita na democratização da educação em tecnologia, considere:
