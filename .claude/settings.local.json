@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir in 1-semestre-fundamentos-web/mes-* 2-semestre-react-backend/mes-* 3-semestre-python-mobile/mes-*)",
+      "Bash(do mkdir -p \"$dir/aulas\" \"$dir/exercicios\" \"$dir/projetos\" \"$dir/recursos\")",
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(tree:*)"
+    ]
+  }
+}
