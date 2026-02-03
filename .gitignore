@@ -1,0 +1,81 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Ambientes virtuais
+.env
+.env.local
+.env.*.local
+
+# Bancos de dados locais
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+.cache/
+
+# Arquivos de build
+dist/
+build/
+.next/
+out/
+
+# Coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# Mobile
+*.apk
+*.aab
+*.ipa
+.expo/
+.expo-shared/
+
+# Arquivos pessoais dos alunos (não versionar soluções individuais)
+solucoes-individuais/
+meus-projetos/
+
+# Documentos sensíveis
+docs/senhas.md
+docs/credenciais.md
+*.key
+*.pem
+*.cert
