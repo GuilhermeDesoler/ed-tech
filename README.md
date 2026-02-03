@@ -7,9 +7,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **EdTech** é uma iniciativa social gratuita de formação em programação e tecnologia voltada a jovens e adultos de Foz do Iguaçu, visando proporcionar **empregabilidade**, **transformação social** e **desenvolvimento de carreira**.
-
-Inspirado na trajetória de seu fundador — **Guilherme Lima Desoler** — o projeto homenageia seu tio Edson, grande incentivador de sua jornada, e visa democratizar o acesso ao ensino de qualidade que antes era inacessível para muitos.
+O **EdTech** é uma iniciativa social gratuita de formação em programação e tecnologia voltada a jovens e adultos, visando proporcionar **empregabilidade**, **transformação social** e **desenvolvimento de carreira**.
 
 ## 🎯 Objetivos
 
